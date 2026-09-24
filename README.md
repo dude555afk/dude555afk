@@ -177,7 +177,7 @@ final_final_v2_REAL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dude555afk/dude555afk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/dude555afk/dude555afk/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
