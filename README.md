@@ -78,45 +78,31 @@ please don't grape me ✌️🥺🥀
 
 ### 💡 get unnecessarily ambitious idea
 
-### ║
-
-### ▼
+### 👇🏻
 
 ### 🤖 explain it to AI like I'm ordering food
 
-### ║
-
-### ▼
+### 👇🏻
 
 ### 💻 code materializes
 
-### ║
-
-### ▼
+### 👇🏻
 
 ### 🔴 69 errors
 
-### ║
-
-### ▼
+### 👇🏻
 
 ### 🧠 accidentally learn programming while fixing them
 
-### ║
-
-### ▼
+### 👇🏻
 
 # 🟢 IT WORKS
 
-### ║
-
-### ▼
+### 👇🏻
 
 ### ✨ add unnecessary animations because pretty
 
-### ║
-
-### ▼
+### 👇🏻
 
 # 🔴 IT NO LONGER WORKS
 
